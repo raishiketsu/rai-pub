@@ -1,8 +1,8 @@
 var ROAClient = require('@alicloud/pop-core').ROAClient;
 
 var client = new ROAClient({
-	  accessKeyId: 'LTAI4GKdiZgz2Sr3ocf4BjBp',
-	  accessKeySecret: 'zwTJupv07qfmRe19tSycix06br7YFN',
+	  accessKeyId: 'LTAI4G9mS6Eyo8muHYGfCkgG',
+	  accessKeySecret: 'QusirtvgODAoytCZzqUD9uzp2ZrXTU',
 	  endpoint: 'https://ecs.ap-northeast-1.aliyuncs.com',
 	  apiVersion: '2014-05-26'
 });
